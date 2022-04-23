@@ -1,6 +1,6 @@
 # clockApp
 
-## [Visitar Web](https://josecossi89.github.io/Weather-App/)
+## [Visitar Web](https://josecossi89.github.io/clockApp/)
 
 ## Tecnologias usadas
 
